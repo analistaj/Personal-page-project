@@ -1,4 +1,6 @@
-head>
+<!DOCTYPE html>
+<html lang="it">
+<head>
 	<title>AJ</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
@@ -14,7 +16,8 @@ head>
 			<ul>
 				<li><a href="">Home</a></li>
 				<li><a href="#about">About me</a></li>
-				<li><a href="#links">Cosa sto imparando</a></li>
+				<li><a href="#HTML a piccoli passi">HTML a piccoli passi</a></li>
+				<li><a href="#links">About me</a></li>
 			</ul>
 		</nav>
 	</header>
@@ -24,9 +27,9 @@ head>
 		<p>Ciao! Sono AJ, partecipo al corso Analista Programmatore Mobile di LdalZovo</p>
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br/> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br/> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br/> Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	</article>
-	<div id="about">
-	<h2>Cosa sto imparando</h2>
-	<h3>HTML a piccoli passi </h3>
+	<div id="HTML a piccoli passi">
+	<h2>HTML a piccoli passi</h2>
+	<h3>Cosa sto imparando </h3>
 	<table>
 	<tr> <td> <a href="http://www.w3schools.com/tags/tag_doctype.asp"> "!DOCTYPE" </a></td><td> <a href="http://www.w3schools.com/tags/tag_article.asp"> "Article" </a></td> <td> <a href="http://www.w3schools.com/tags/tag_div.asp"> "Div" </a> ></td> </tr>
 	<tr> <td> xxx </td> <td> xxx </td> <td> xxx </td> </tr>
