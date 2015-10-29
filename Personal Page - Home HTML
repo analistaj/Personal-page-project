@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html lang="it">
 <head>
 	<title>AJ</title>
 	<meta charset="utf-8">
@@ -11,11 +9,12 @@
 <body>
 	<header role="banner">
 		<h1>AJ</h1>
+		<h2>What happens around me </h2>
 		<nav role="navigation">
 			<ul>
 				<li><a href="">Home</a></li>
 				<li><a href="#about">About</a></li>
-				<li><a href="#links">Links</a></li>
+				<li><a href="#links">Cosa sto imparando</a></li>
 			</ul>
 		</nav>
 	</header>
@@ -23,13 +22,22 @@
 	<article id="about">
 		<h2>AJ</h2>
 		<p>Ciao! Sono AJ, partecipo al corso Analista Programmatore Mobile di LdalZovo</p>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br/> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br/> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br/> Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	</article>
-	
+	<div id="about">
+	<h2>Cosa sto imparando.</h2>
+	<h3>HTML a piccoli passi </h3>
+	<table>
+	<tr> <td> <a href="http://www.w3schools.com/tags/tag_doctype.asp"> "!DOCTYPE" </a></td><td> <a href="http://www.w3schools.com/tags/tag_article.asp"> "Article" </a></td> <td> <a href="http://www.w3schools.com/tags/tag_div.asp"> "Div" </a> ></td> </tr>
+	<tr> <td> xxx </td> <td> xxx </td> <td> xxx </td> </tr>
+	<tr> <td> xxx </td> <td> xxx </td> <td> xxx </td> </tr>
+	</table>
+	</div>
 	<aside role="complementary" id="links">
 		<h2>Link utili</h2>
 		<ul>
-			<li><a href="https://github.com/ldalzovo/corso_analista_programmatore_mobile">Il materiale del corso</a></li>
-			<li><a href="https://www.linkedin.com/in/ldalzovo">Il mio profilo Linkedin</a></li>
+			<li><a href="">Download</a></li>
+			<li><a href="">Contatti</a></li>
 		</ul>
 	</aside>
 	
